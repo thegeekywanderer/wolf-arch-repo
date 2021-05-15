@@ -18,6 +18,4 @@ sudo pacman -S package-name
 ```
 
 Current Packages in this Repository -
-```
-kwincorners-git
-```
+- kwincorners-git
