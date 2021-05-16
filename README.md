@@ -2,7 +2,7 @@
 This is a repository for some Arch packages maintained by me. I plan to continue adding more packages to it as I venture deeper into the linux world.
 
 ## Add the repository [Installation]
-To add this repository in pacman you need to add the following lines in the pacman.conf file. Location - `etc/pacman.conf`
+To add this repository in pacman you need to add the following lines in the pacman.conf file. Location - `/etc/pacman.conf`
 ```
 [wolf-arch-repo]
 SigLevel = Optional DatabaseOptional
